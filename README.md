@@ -7,7 +7,6 @@
 Passionate about creating visually appealing and user-friendly interfaces, I thrive on turning concepts into reality through code. 
 With a strong foundation in HTML, CSS, and JavaScript, I am dedicated to staying ahead in the dynamic world of web development. Eager to collaborate, learn, and contribute to innovative projects that push the boundaries of user experience. Let's connect and build something amazing together!"
 
-<br>
 
 # Skills & Experiance
 #### 🔵 HTML & CSS
@@ -16,7 +15,6 @@ With a strong foundation in HTML, CSS, and JavaScript, I am dedicated to staying
 #### 🔵 SAAS
 #### 🔵 TAILWIND CSS
 
-<br>
 
 # Social Icons
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tahmidsafiq)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tahmidsafiq/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tahmidsafiq)  
