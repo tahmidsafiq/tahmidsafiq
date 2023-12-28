@@ -1,6 +1,6 @@
 ![Cover Image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS_hx2h8B7mNGDFzOOxRW5MJ-6pMsJc5GZboU2hHXkXA787dNpMNKKZVBnCUoHAtKz5ToGk50LzOj1zlQywRrBeKFP5tSsP_pO8wJQrBgiHiQp44urqF98Tsu_kHwjbmTAeHDpUNNHLsj_KXaBtKLHAkMsfBc76MG_-Zc091LPDtPaMHEK6BItLsuNDAM/s16000/B%20wild%20but%20stay%20soft.png)
 
-
+ 
 # Hi, 🖐🏻  i'm Tahmid Safiq
 ### I am a self-taught and dedicated front-end developer
 Passionate about creating visually appealing and user-friendly interfaces, I thrive on turning concepts into reality through code. 
