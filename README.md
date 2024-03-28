@@ -4,7 +4,7 @@
 # Hi, 🖐🏻  i'm Tahmid Safiq
 ### I am a self-taught and dedicated front-end developer
 Passionate about creating visually appealing and user-friendly interfaces, I thrive on turning concepts into reality through code. 
-With a strong foundation in HTML, CSS, and JavaScript, React I am dedicated to staying ahead in the dynamic world of web development. Eager to collaborate, learn, and contribute to innovative projects that push the boundaries of user experience. Let's connect and build something amazing together!"
+With a strong foundation in HTML, CSS, and JavaScript, I am dedicated to staying ahead in the dynamic world of web development. Eager to collaborate, learn, and contribute to innovative projects that push the boundaries of user experience. Let's connect and build something amazing together!"
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tahmidsafiq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tahmidsafiq) 
